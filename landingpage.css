@@ -147,6 +147,7 @@ p{
     background: #f0dada;
     border-radius: 10px;
     margin-bottom: 5%;
+    margin-left: 10px;
     padding: 20px 12px;
     box-sizing: border-box;
     transition: 0.5s;
@@ -168,7 +169,8 @@ h3{
 }
 .campus-col{
     flex-basis: 32%;
-    border-radius: 10px;
+    border-spacing: 15px;
+    margin-left: 10px;
     margin-bottom: 30px;
     text-align: center;
     position: relative;
@@ -182,6 +184,7 @@ h3{
     height: 100%;
     width: 100%;
     position: absolute;
+    border-spacing: 15px;
     top: 0;
     left: 0;
     transition: 0.5s;
@@ -221,6 +224,7 @@ h3{
     flex-basis: 31%;
     border-radius: 10px;
     margin-bottom: 5%;
+    margin-left: 10px;
     text-align: left;
 }
 .facilities-col img{
